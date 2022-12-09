@@ -269,7 +269,7 @@ export let translations = {
     nl: 'Hint',
   },
   Scoreboard: {
-    nl: 'Scorebord',
+    nl: 'Leaderboard',
   },
   'No rooms found for today': {
     nl: 'Geen kamers gevonden voor vandaag',
