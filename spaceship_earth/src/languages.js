@@ -202,7 +202,7 @@ export let translations = {
     nl: 'Camera toegang geweigerd',
   },
   Submit: {
-    nl: 'Verzenden',
+    nl: 'Stuur',
   },
   'write barcode...': {
     nl: 'streepjescode invullen...',
