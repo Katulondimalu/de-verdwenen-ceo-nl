@@ -11,7 +11,7 @@ export let translations = {
     nl: 'The Lost CEO',
   },
   Enter: {
-    nl: 'Enter',
+    nl: 'Verder',
   },
   'Team Name': {
     nl: 'Team Name',
