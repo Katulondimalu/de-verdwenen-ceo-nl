@@ -53,7 +53,7 @@ export let translations = {
     nl: 'Klik om de hint te ontgrendelen, dat zal',
   },
   minutes: {
-    nl: 'minutes',
+    nl: 'minuten',
   },
   'to your score.': {
     nl: 'aan je score toevoegen.',
@@ -75,63 +75,63 @@ export let translations = {
   'Bring back the box': {
     nl: 'Breng de GamifiCase terug',
   },
-  tText_1a: {
-    nl: 'You see 5 colours below. Which colour combinations from above do you need to get the colours below?',
+  hintText_1a: {
+    nl: 'Je ziet onder 5 kleuren staan. Welke kleurcombinaties van boven heb je nodig om de kleuren onder te krijgen?',
   },
   hintText_1b: {
-    nl: 'The first colour is pink. Pink is red and white. When you put red and white together you get the A. Continue with green.',
+    nl: 'De eerste kleur is roze. Roze is rood en wit. Wanneer je rood en wit bij elkaar doet krijg je de A. Ga verder met groen.',
   },
   hintText_1c: {
-    nl: 'The code is AHIEA',
+    nl: 'De code is: AHIEA',
   },
   hintText_2a: {
-    nl: 'Read the text carefully. There you read the route how you must walk.',
+    nl: 'Luister goed naar de gesproken tekst. Daarin hoor je de route die je moet lopen',
   },
   hintText_2b: {
-    nl: 'Have you found the street? Under the map, cross out the letters from the street in the text.',
+    nl: 'Heb je de straat gevonden? Streep op de achterkant van de kaart de letters weg van de straat in de tekst.',
   },
   hintText_2c: {
-    nl: 'The Code is: 255',
+    nl: 'De Code is: 255',
   },
   hintText_3a: {
-    nl: 'The card reads: equal up',
+    nl: 'Op de kaart staat even omhoog',
   },
   hintText_3b: {
-    nl: 'Look at the barcode in the app. Put that barcode next to the card with equal up. Then put up the equal numbers that correspond to the characters on one of the boxes.',
+    nl: 'Er is een Streepjescode die niet werkt voor de box. zet die streepjescode naast de kaart met even omhoog. Doe vervolgens de even getallen die overeen komen met de tekens op een van de boxjes omhoog. ',
   },
   hintText_3c: {
-    nl: 'The code is: down, up, down, up, down, down, up, up, down, up',
+    nl: 'De coade is: omlaag, omhoog, omlaag, omhoog, omlaag, omlaag, omhoog, omhoog, omlaag, omhoog',
   },
   hintText_4a: {
-    nl: 'Put the right people in the right place',
+    nl: 'Zet de juiste mensen op de juiste plaats',
   },
   hintText_4b: {
-    nl: 'Actually put the cards on the map, this makes it easier.',
+    nl: 'Leg de kaartjes ook daadwerkelijk op de kaart, dit maakt het makkelijker.',
   },
   hintText_4c: {
-    nl: ' The code is 620943, use the magnet to open the following box.',
+    nl: 'De code is 620943, gebruk de magneet op het volgene doosje open te maken.',
   },
   hintText_5a: {
-    nl: 'Look at the 1s and 0s. Do you see a pattern in them?',
+    nl: 'Bekijk de 1en en 0en. Zie je daar een patroon in?',
   },
   hintText_5b: {
-    nl: 'When you follow the 1s you see a pattern consisting of four digits.',
+    nl: 'Wanneer je de 1en volgt zie je een patroon bestaand uit 4 cijfers.',
   },
   hintText_5c: {
-    nl: 'The code of the next lock is 7034',
+    nl: 'De code van het volgende slot is 7034',
   },
   hintText_6a: {
-    nl: 'Look at the picture on the box.',
+    nl: 'Kijk op het kistje naar de afbeelding.',
   },
   hintText_6b: {
-    nl: 'Start with the 45-degree angles, work from there',
+    nl: 'Start met de hoeken van 45 graden, werk vanuit daar verder',
   },
   hintText_6c: {
-    nl: 'The code is from left to right 9268',
+    nl: 'De code is van lings naar rechts 9268',
   },
 
   Continue: {
-    nl: 'Continue',
+    nl: 'Verder',
   },
   'The code of the next box is:': {
     nl: 'De code van het volgende vak is:',
@@ -209,13 +209,13 @@ export let translations = {
     nl: 'Stap',
   },
   'You finished in': {
-    nl: 'You finished in',
+    nl: 'Je bent geeïndigd in',
   },
   and: {
     nl: 'en',
   },
   'without using any hints!': {
-    nl: 'without using any hints!',
+    nl: 'zonder hints te gebruiken!',
   },
   with: {
     nl: 'met',
@@ -309,7 +309,7 @@ export let translations = {
     nl: 'Geen kamers gevonden voor vandaag',
   },
   'please set team name first': {
-    nl: 'stel eerst een Team naam in',
+    nl: 'stel eerst een team naam in',
   },
   'Name is required': {
     nl: 'Naam is verplicht',
