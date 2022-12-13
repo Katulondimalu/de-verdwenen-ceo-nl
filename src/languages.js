@@ -38,10 +38,10 @@ export let translations = {
     nl: 'Als je geen ster aan de hemel kunt zijn, wees dan een lampje in je huis.',
   },
   'Watch the video to continue to the next step.': {
-    nl: 'Listen to the message to continue to the next step.',
+    nl: 'Luister naar het geluidsfragment om door te gaan naar de volgende stap.',
   },
   'Skip video': {
-    nl: 'Skip Instructions',
+    nl: 'Instructies overslaan',
   },
   Video: {
     nl: 'Sound clip',
@@ -203,7 +203,7 @@ export let translations = {
       nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Mediamarkt%2FVERRASSING%20VAN%20STICHTING%20BIO%20(1).mp4?alt=media&token=b5b795e0-a72f-4e49-a1a3-617daa6ce902',
     },
   'Scan the correct QR code to continue': {
-    nl: 'Scan the correct code to continue',
+    nl: 'Scan de juiste streepjescode om verder te gaan',
   },
   Step: {
     nl: 'Stap',
@@ -224,7 +224,7 @@ export let translations = {
     nl: 'straf voor het gebruik van hints!',
   },
   'Scan the right bar code or scan the number': {
-    nl: 'Scan the correct code or fill in the code to continue',
+    nl: 'Scan de juiste streepjescode om verder te gaan',
   },
   'Wrong code': {
     nl: 'Foutieve code',
