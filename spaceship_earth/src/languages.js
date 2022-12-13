@@ -14,7 +14,7 @@ export let translations = {
     nl: 'Verder',
   },
   'Team Name': {
-    nl: 'Teamnaam',
+    nl: 'Team naam',
   },
   'Scan the qr code below to play on your own phone.': {
     nl: "Medespelers kunnen deze  QR code scannen om geluidsfragmenen mee te luisteren op hun eigen telefoon. Wanneer iedereen de QR code heeft gescand kun je het spel starten. LET OP: je hebt vanaf dan 20 minuten de de game te spelen.",

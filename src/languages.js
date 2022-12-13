@@ -2,25 +2,25 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'The Lost CEO',
+    nl: 'De Verdwenen CEO',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'The Lost CEO',
+    nl: 'De Verdwenen CEO',
   },
   Enter: {
     nl: 'Verder',
   },
   'Team Name': {
-    nl: 'Team Name',
+    nl: 'Team naam',
   },
   'Scan the qr code below to play on your own phone.': {
     nl: "Medespelers kunnen deze  QR code scannen om geluidsfragmenten mee te luisteren op hun eigen telefoon. Wanneer iedereen de QR code heeft gescand kun je het spel starten. LET OP: je hebt vanaf dan 20 minuten de de game te spelen.",
   },
   'Choose a team name': {
-    nl: 'Choose a team name',
+    nl: 'Kies een team naam',
   },
   'Start Game': {
     nl: 'Start Game',
@@ -309,7 +309,7 @@ export let translations = {
     nl: 'Geen kamers gevonden voor vandaag',
   },
   'please set team name first': {
-    nl: 'stel eerst een teamnaam in',
+    nl: 'stel eerst een Team naam in',
   },
   'Name is required': {
     nl: 'Naam is verplicht',
