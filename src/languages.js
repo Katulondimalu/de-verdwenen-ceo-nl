@@ -174,7 +174,7 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-001.mp3?alt=media&token=c6437228-a669-408d-843e-f7d19ba5fdd2',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%201.mp3?alt=media&token=81a08a9f-d4e8-45c1-93c8-07aad7559b86',
   },
   game2VideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-002.mp3?alt=media&token=9731a1ae-bde4-48e7-9527-d81182ca6801',
