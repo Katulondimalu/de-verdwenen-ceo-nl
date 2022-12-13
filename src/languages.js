@@ -177,19 +177,19 @@ export let translations = {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%201.mp3?alt=media&token=81a08a9f-d4e8-45c1-93c8-07aad7559b86',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-002.mp3?alt=media&token=9731a1ae-bde4-48e7-9527-d81182ca6801',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%202.mp3?alt=media&token=0d0e3815-afe4-495c-a148-1662c4aa7601',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-003.mp3?alt=media&token=671a27c1-c652-4e05-bfac-10c251c7c4e8',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%203.mp3?alt=media&token=088f48cd-5ff0-4442-a75b-5c7e271e2deb',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-004.mp3?alt=media&token=b8097173-ef0e-4c8e-81cc-3c54eac47477',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%204.mp3?alt=media&token=bf972a90-58a3-4213-91e2-6015f1caf59f',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-005.mp3?alt=media&token=dd9352a3-a386-45d8-bd34-28c10009b810',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%205.mp3?alt=media&token=1b3e24ef-9f53-4da9-bf10-e4e1b6b6bbe8',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-006.mp3?alt=media&token=4e28d264-4c94-43ce-a6e3-c12bf9c3d053',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%206.mp3?alt=media&token=84f8471e-3906-41da-b884-c749bfe9da18',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
