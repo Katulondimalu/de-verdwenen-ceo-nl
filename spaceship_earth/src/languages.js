@@ -202,7 +202,7 @@ export let translations = {
     nl: 'Camera toegang geweigerd',
   },
   Submit: {
-    nl: 'Verzenden',
+    nl: 'Stuur',
   },
   'write barcode...': {
     nl: 'streepjescode invullen...',
@@ -269,7 +269,7 @@ export let translations = {
     nl: 'Hint',
   },
   Scoreboard: {
-    nl: 'Scorebord',
+    nl: 'Leaderboard',
   },
   'No rooms found for today': {
     nl: 'Geen kamers gevonden voor vandaag',

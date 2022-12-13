@@ -2,25 +2,25 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'The Lost CEO',
+    nl: 'De Verdwenen CEO',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'The Lost CEO',
+    nl: 'De Verdwenen CEO',
   },
   Enter: {
-    nl: 'Enter',
+    nl: 'Verder',
   },
   'Team Name': {
-    nl: 'Team Name',
+    nl: 'Team naam',
   },
   'Scan the qr code below to play on your own phone.': {
     nl: "Medespelers kunnen deze  QR code scannen om geluidsfragmenten mee te luisteren op hun eigen telefoon. Wanneer iedereen de QR code heeft gescand kun je het spel starten. LET OP: je hebt vanaf dan 20 minuten de de game te spelen.",
   },
   'Choose a team name': {
-    nl: 'Choose a team name',
+    nl: 'Kies een team naam',
   },
   'Start Game': {
     nl: 'Start Game',
@@ -38,13 +38,13 @@ export let translations = {
     nl: 'Als je geen ster aan de hemel kunt zijn, wees dan een lampje in je huis.',
   },
   'Watch the video to continue to the next step.': {
-    nl: 'Listen to the message to continue to the next step.',
+    nl: 'Luister naar het berecht en ga dan verder.',
   },
   'Skip video': {
-    nl: 'Skip Instructions',
+    nl: 'Geluidsfragment overslaan',
   },
   Video: {
-    nl: 'Sound clip',
+    nl: 'Geluidsfragment',
   },
   Hints: {
     nl: 'Hints',
@@ -53,7 +53,7 @@ export let translations = {
     nl: 'Klik om de hint te ontgrendelen, dat zal',
   },
   minutes: {
-    nl: 'minutes',
+    nl: 'minuten',
   },
   'to your score.': {
     nl: 'aan je score toevoegen.',
@@ -131,7 +131,7 @@ export let translations = {
   },
 
   Continue: {
-    nl: 'Continue',
+    nl: 'Verder',
   },
   'The code of the next box is:': {
     nl: 'De code van het volgende vak is:',
@@ -140,7 +140,7 @@ export let translations = {
     nl: 'Opruim instructies:',
   },
   CleanUpText1: {
-    nl: 'A task for the real warriors. Can you manage to get the items all back in the box and get the box closed again? We would love you for that! 🥰',
+    nl: 'Een taak voor de echte strijders. Lukt het jou om de voorwerpen allemaal terug in de doos te doen en de doos weer dicht te krijgen? Je bent geweldig! 🥰',
   },
   'Snap a picture': {
     nl: 'Maak een foto',
@@ -203,19 +203,19 @@ export let translations = {
       nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Mediamarkt%2FVERRASSING%20VAN%20STICHTING%20BIO%20(1).mp4?alt=media&token=b5b795e0-a72f-4e49-a1a3-617daa6ce902',
     },
   'Scan the correct QR code to continue': {
-    nl: 'Scan the correct code to continue',
+    nl: 'Scan de juiste streepjescode om verder te gaan',
   },
   Step: {
     nl: 'Stap',
   },
   'You finished in': {
-    nl: 'You finished in',
+    nl: 'Je bent geeïndigd in',
   },
   and: {
     nl: 'en',
   },
   'without using any hints!': {
-    nl: 'without using any hints!',
+    nl: 'zonder hints te gebruiken!',
   },
   with: {
     nl: 'met',
@@ -224,7 +224,7 @@ export let translations = {
     nl: 'straf voor het gebruik van hints!',
   },
   'Scan the right bar code or scan the number': {
-    nl: 'Scan the correct code or fill in the code to continue',
+    nl: 'Scan de juiste streepjescode om verder te gaan',
   },
   'Wrong code': {
     nl: 'Foutieve code',
@@ -236,7 +236,7 @@ export let translations = {
     nl: 'Camera toegang geweigerd',
   },
   Submit: {
-    nl: 'Submit',
+    nl: 'Stuur',
   },
   'write barcode...': {
     nl: 'streepjescode invullen...',
@@ -257,7 +257,7 @@ export let translations = {
     nl: 'Je tijd ',
   },
   Skip: {
-    nl: 'Skip',
+    nl: 'Overslaan',
   },
   'something is wrong!': {
     nl: 'er is iets fout!',
@@ -309,7 +309,7 @@ export let translations = {
     nl: 'Geen kamers gevonden voor vandaag',
   },
   'please set team name first': {
-    nl: 'stel eerst een teamnaam in',
+    nl: 'stel eerst een team naam in',
   },
   'Name is required': {
     nl: 'Naam is verplicht',
