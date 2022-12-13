@@ -44,7 +44,7 @@ export let translations = {
     nl: 'Instructies overslaan',
   },
   Video: {
-    nl: 'Sound clip',
+    nl: 'Instructies',
   },
   Hints: {
     nl: 'Hints',
