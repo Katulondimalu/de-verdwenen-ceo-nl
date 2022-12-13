@@ -14,7 +14,7 @@ export let translations = {
     nl: 'Verder',
   },
   'Team Name': {
-    nl: 'team naam',
+    nl: 'Teamnaam',
   },
   'Scan the qr code below to play on your own phone.': {
     nl: "Medespelers kunnen deze  QR code scannen om geluidsfragmenten mee te luisteren op hun eigen telefoon. Wanneer iedereen de QR code heeft gescand kun je het spel starten. LET OP: je hebt vanaf dan 20 minuten de de game te spelen.",
@@ -202,7 +202,7 @@ export let translations = {
     nl: 'Camera toegang geweigerd',
   },
   Submit: {
-    nl: 'Stuur',
+    nl: 'Verzenden',
   },
   'write barcode...': {
     nl: 'streepjescode invullen...',
@@ -269,7 +269,7 @@ export let translations = {
     nl: 'Hint',
   },
   Scoreboard: {
-    nl: 'Leaderboard',
+    nl: 'Scorebord',
   },
   'No rooms found for today': {
     nl: 'Geen kamers gevonden voor vandaag',

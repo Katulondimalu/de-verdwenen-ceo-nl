@@ -33,7 +33,7 @@ const TopScore = ({ to, RoomContext }) => {
         </span>{' '}
         {t('and')}{' '}
         <span>
-          {(seconds_elapsed % 60).toFixed(0).padStart(2, '0')} {t('seconden')}
+          {(seconds_elapsed % 60).toFixed(0).padStart(2, '0')} {t('seconds')}
         </span>
       </span>{' '}
       {hints_penalty === 0 ? (

@@ -44,7 +44,7 @@ const StepSetTeamName = ({ onNext, RoomContext }) => {
         }}
       >
         <b style={{ color: 'black', fontSize: 20 }}>
-          {t('Kies een team naam')}
+          {t('Choose a team name')}
         </b>
         <Whitespace height={16} />
         <TextField
